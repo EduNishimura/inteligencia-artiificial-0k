@@ -1,2 +1,2 @@
 # inteligencia-artiificial-0k
-Este projeto utiliza Machine Learning para prever casos de depressão em estudantes universitários com base em fatores acadêmicos, socioeconômicos e de estilo de vida.
+Nosso projeto tem como objetivo desenvolver um modelo preditivo, utilizando técnicas de Inteligência Artificial, para identificar estudantes universitários com risco de depressão. Através da análise de dados acadêmicos, comportamentais e familiares, aplicamos o algoritmo Random Forest para prever possíveis casos de depressão de forma precisa e preventiva. Essa ferramenta pode auxiliar instituições de ensino na detecção precoce de vulnerabilidades emocionais, permitindo intervenções mais eficazes e personalizadas.
